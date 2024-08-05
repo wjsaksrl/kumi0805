@@ -1,5 +1,6 @@
 # kumi0805
 echo "# kumi0805" >> README.md
+idk why i cannot push
 git init
 git add .
 git commit -m "first commit"
